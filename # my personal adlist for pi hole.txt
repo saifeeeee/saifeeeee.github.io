@@ -11,3 +11,17 @@ insights.hotjar.com
 identify.hotjar.com
 adm.hotjar.com
 fwtracks.freshmarketer.com
+events.reddit.com
+widgets.pinterest.com
+w1.luckyorange.com
+cdn.luckyorange.com
+realtime.luckyorange.com
+api.luckyorange.com
+claritybt.freshmarketer.com
+freshmarketer.com
+cdn-test.mouseflow.com
+tools.mouseflow.com
+app.bugsnag.com
+api.bugsnag.com
+app.getsentry.com
+browser.sentry-cdn.com
