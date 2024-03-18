@@ -1,0 +1,13 @@
+# my personal adlist for pi hole
+
+analyticsengine.s3.amazonaws.com
+analytics.s3.amazonaws.com
+advertising-api-eu.amazon.com
+afs.googlesyndication.com
+mediavisor.doubleclick.net
+surveys.hotjar.com
+events.hotjar.io
+insights.hotjar.com
+identify.hotjar.com
+adm.hotjar.com
+fwtracks.freshmarketer.com
