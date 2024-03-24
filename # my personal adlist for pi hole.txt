@@ -26,3 +26,4 @@ api.bugsnag.com
 app.getsentry.com
 browser.sentry-cdn.com
 gofile.io
+bdsmx.tube
